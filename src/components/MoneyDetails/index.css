@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.details-container {
+  display: flex;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+}
+.money-details-container {
+  display: flex;
+  justify-content: space-around;
+}
+.icon {
+  height: 60px;
+  width: 60px;
+}
+.balance {
+  background-color: #ecfccb;
+  border: 1px solid #84cc16;
+}
+.income {
+  background-color: #cffafe;
+  border: 1px solid #06b6d4;
+}
+.expense {
+  background-color: #ede9fe;
+  border: 1px solid #7c3aed;
+}
